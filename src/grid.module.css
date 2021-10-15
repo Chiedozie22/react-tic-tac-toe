@@ -6,6 +6,7 @@
     background-color: rgba(0, 0, 0, 0.2);
     width: calc(3 * 85px + 2 * 5px);
     height: calc(3 * 85px + 2 * 5px);
+    z-index: 999;
 }
 
 .container > div {
@@ -15,6 +16,7 @@
     background-color: white;
     width: 85px;
     height: 85px;
+    z-index: 999;
 }
 
 .winner{
