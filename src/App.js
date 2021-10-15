@@ -1,6 +1,7 @@
 import React from 'react';
 import Grid from './Grid';
 import PlayerInfo from './PlayerInfo'
+// import "./App.css"
 
 export default function App(props) {
     const [data, setdata] = React.useState({

@@ -10,12 +10,13 @@
 
 .container > div {
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
     background-color: white;
     width: 85px;
     height: 85px;
 }
 
 .winner{
-    background-color: red !important;
+    background-color: green !important;
 }
